@@ -10,7 +10,8 @@ When evaluating the target detection effect, we need to prepare the following do
 
 Then you can run the application and get the results of the evaluation indexes.
 
-在实现或改进目标检测算法时，我们总需要对检测效果进行评估，从而确定改进是否有效。那么如何高效统计目标检测效果？有较多评价指标，这里我们选择常用的精度和召回。
+在实现或改进目标检测算法时，我们总需要对检测效果进行评估，从而确定改进是否有效。
+那么如何高效统计目标检测效果？有较多评价指标，这里我们选择常用的精度和召回。
 在评估目标检测效果时，我们需要准备如下文件:
 (1)目标在图片中的实际位置和大小信息;
 (2)检测出来的目标在图片中的位置和大小信息。
